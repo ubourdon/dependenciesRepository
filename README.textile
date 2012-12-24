@@ -1,0 +1,4 @@
+h1. Dependencies Repository
+
+It is my personnal maven/sbt repository hosting my marvelous & useful ^^ libraries !
+
