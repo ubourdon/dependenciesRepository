@@ -5,7 +5,7 @@
     <artifactId>simplyScala_2.9.2</artifactId>
     <packaging>jar</packaging>
     <description>simplyScala</description>
-    <version>0.1-SNAPSHOT</version>
+    <version>0.1</version>
     <name>simplyScala</name>
     <organization>
         <name>simplyscala</name>
